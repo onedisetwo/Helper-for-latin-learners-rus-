@@ -1,0 +1,38 @@
+.12
+usera um
+.31
+ererise 
+.32
+isisise 
+.33
+isisisis
+_declinatio
+d2
+gm
+;00-us,er;01-i;02-o;03-um;04-o;10-i;11-orum;12-is;13-os;14-is;
+gf
+;00-a;01-ae;02-ae;03-am;04-a;10-ae;11-arum;12-is;13-as;14-is;
+gn
+;00-um;01-i;02-o;03-um;04-o;10-a;11-orum;12-is;13-os;14-is;
+d3
+gm
+;00-er;01-is;02-i;03-em;04-i;10-es;11-ium;12-ibus;13-es;14-ibus;
+gf
+;00-is;01-is;02-i;03-em;04-i;10-es;11-ium;12-ibus;13-es;14-ibus;
+gn
+;00-e;01-is;02-i;03-e;04-i;10-ia;11-ium;12-ibus;13-ia;14-ibus;
+d4
+gb
+;00-is;01-is;02-i;03-em;04-i;10-es;11-ium;12-ibus;13-es;14-ibus;
+gn
+;00-e;01-is;02-i;03-e;04-i;10-ia;11-ium;12-ibus;13-ia;14-ibus;
+d5
+gb
+;00- ;01-is;02-i;03-em;04-i;10-es;11-ium;12-ibus;13-es;14-ibus;
+gn
+;00- ;01-is;02-i;03- ;04-i;10-es;11-ium;12-ibus;13-ia;14-ibus;
+_format
+2I-II;3III (type 1);4III (type 2);5III (type 3);
+Mmasculinum;Ffemininum;Nneutrum;Bmasculinum|femininum;
+0Singularis;1Pluralis;
+0Nominativus;1Genitivus;2Dativus;3Accusativus;4Ablativus;

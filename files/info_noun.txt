@@ -1,0 +1,23 @@
+1ae2i3is4us5ei
+1f 1-
+;00-a;01-ae;02-ae;03-am;04-a;10-ae;11-arum;12-is;13-as;14-is;
+2m 2-
+;00-us,er,um;01-i;02-o;03-um;04-o;10-i;11-orum;12-is;13-os;14-is;
+2n 2-
+;00-us,er,um;01-i;02-o;03-um;04-o;10-a;11-orum;12-is;13-os;14-is;
+3m 3f 3-
+;00- ;01-is;02-i;03-em;04-e;10-es;11-um,ium;12-ibus;13-es;14-es;
+3n 3-
+;00- ;01-is;02-i;03- ;04- ,i;10-a,ia;11-um,ium;12-ibus;13-a,ia;14-a,ia;
+4m 4-
+;00-us;01-us;02-ui;03-um;04-u;10-us;11-uum;12-ibus;13-us;14-us;
+4n 4-
+;00-u;01-us;02-u;03-u;04-u;10-ua;11-uum;12-ibus;13-ua;14-ua;
+5f 5-
+;00-es;01-ei;02-ei;03-em;04-e;10-es;11-erum;12-ebus;13-es;14-es;
+
+_format
+1prima;2secunda;3tertia;4quarta;5quinta
+Masculinum;Femininum;Neutrum
+0Singularis;1Pluralis
+0Nominativus;1Genitivus;2Dativus;3Accusativus;4Ablativus

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1677331174 source:c:\users\1\progger\proekt23\v1\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	"libs\latino.h"
+
+1675337125 source:c:\users\1\progger\proekt23\v1\noun.cpp
+	<iostream>
+
+1677421738 source:c:\users\1\progger\proekt23\v1\dictionary_search.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<conio.h>
+	"libs/latino.h"
+
+1678005841 source:c:\users\1\progger\proekt23\v1\form_determenition.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<vector>
+	"libs/latino.h"
+	"libs/partsofspeech.h"
+
+1677253546 c:\users\1\progger\proekt23\v1\latino.h
+	<vector>
+
+1677262872 c:\users\1\progger\proekt23\v1\libs\latino.h
+	<vector>
+
+1677349894 c:\users\1\progger\proekt23\v1\libs\noun.h
+	<iostream>
+	<fstream>
+	<vector>
+	"latino.h"
+
+1678005883 c:\users\1\progger\proekt23\v1\libs\partsofspeech.h
+	<iostream>
+	<fstream>
+	<vector>
+	"latino.h"
+

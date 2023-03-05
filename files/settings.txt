@@ -1,0 +1,5 @@
+INFO_NOUN :files/info_noun.txt
+INFO_ADJ  :files/info_adj.txt
+INFO_VERB :files/info_verb.txt
+DICTIONARY:files/dictionary.txt
+OUTPUT    :file/output.txt
